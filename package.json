@@ -1,0 +1,23 @@
+{
+  "name": "aea6-mvizuetedaw2n26",
+  "version": "1.0.0",
+  "description": "Projecte de pràctiques de Git i GitHub en parella, de l'AEA6 del mòdul M0614.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mvizuetedaw2n26/aea6-mvizuetedaw2n26.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mvizuetedaw2n26/aea6-mvizuetedaw2n26/issues"
+  },
+  "homepage": "https://github.com/mvizuetedaw2n26/aea6-mvizuetedaw2n26#readme",
+  "devDependencies": {
+    "jsdoc": "^4.0.5"
+  }
+}
